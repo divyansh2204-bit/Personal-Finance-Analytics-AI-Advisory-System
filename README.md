@@ -1,4 +1,4 @@
-# Personal-Finance-Planer
+# Personal Finance Analytics & AI Advisory System
 
 FinPlanner: Your Personal Finance Dashboard
 FinPlanner is a powerful, all-in-one web application designed to give you a clear and comprehensive view of your financial life. Built as a lightweight, single-file prototype, it runs entirely in your browser with no need for a backend server, making it incredibly fast and easy to use.
